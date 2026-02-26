@@ -18,7 +18,7 @@ class Anime3rb : ParsedAnimeSource( ) {
 
     override val name = "Anime3rb"
 
-    override val baseUrl = "https://anime3rb.com"
+    override val baseUrl = "https://apkanime3rb.com"
 
     override val lang = "ar"
 
